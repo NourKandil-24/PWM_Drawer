@@ -20,13 +20,13 @@ This project showcases the real-time graphical display of PWM waveforms on a Gra
 * **DIO** (Digital Input/Output): Controls GLCD communication for data and control signals.
 
 # Hardware Requirements
-Microcontroller (e.g., ATMEGA32)
-Graphical LCD (GLCD) (128x64 or higher resolution)
-PWM Signal Source (internal)
-ICU Input Pin (for PWM signal capture)
+* Microcontroller (e.g., ATMEGA32)
+* Graphical LCD (GLCD) (128x64 or higher resolution)
+* PWM Signal Source (internal)
+* ICU Input Pin (for PWM signal capture)
 
 **Software Requirements**
-Embedded C/C++ for microcontroller programming
-GLCD Library for waveform rendering
-ICU and GPT libraries for PWM capture and timing
+* Embedded C/C++ for microcontroller programming
+* GLCD Library for waveform rendering
+* ICU and GPT libraries for PWM capture and timing
 
